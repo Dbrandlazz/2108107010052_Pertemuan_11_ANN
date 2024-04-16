@@ -22,6 +22,7 @@ Kumpulkan kedua tugas tersebut menggunakan repository pada github dengan nama re
    Dataset dari kaggle https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data
    
    _About the dataset:_
+   
    Bob, who has started his own mobile company, wants to compete with big players like Apple and Samsung. However, he's unsure how to price his company's mobile phones 
    competitively. To make informed decisions, he collects sales data from various mobile phone companies.
    Bob's goal is to understand the relationship between the features of a mobile phone (such as RAM, internal memory, etc.) and its selling price. However, he's not familiar
@@ -65,6 +66,16 @@ Kumpulkan kedua tugas tersebut menggunakan repository pada github dengan nama re
    * **anak-anak:** Jumlah anak yang ditanggung oleh asuransi kesehatan / Jumlah tanggungan
    * **perokok:** Merokok
    * **wilayah:** wilayah pemukiman penerima manfaat di AS, timur laut, tenggara, barat daya, barat laut
+
+## Perbandingan Hasil SVM dan ANN
+tugas SVM dapat dilihat [disini](https://github.com/Dbrandlazz/Tugas-2-ML) 
+### Klasifikasi
+1. SVM model dengan kernel RBF berhasil memprediksi dengan akurasi 98%
+2. ANN model dengan 4 layer juga mendapatkan akurasi 98%
+
+### Regresi
+1. SVM model dengan polynomial derajat 3 memperoleh nilai r2 score: 0.625597745388266 
+2. ANN model dengan 5 layer menggunakan loss mse mendapat r2 score: 0.8852260854627915
 
      
    
