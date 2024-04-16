@@ -75,7 +75,7 @@ tugas SVM dapat dilihat [disini](https://github.com/Dbrandlazz/Tugas-2-ML)
 
 ### Regresi
 1. SVM model dengan polynomial derajat 3 memperoleh nilai r2 score: 0.625597745388266 
-2. ANN model dengan 5 layer menggunakan loss mse mendapat r2 score: 0.8852260854627915
+2. ANN model dengan 5 layer mendapat r2 score: 0.8852260854627915
 
      
    
