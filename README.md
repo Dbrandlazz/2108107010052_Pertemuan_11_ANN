@@ -4,20 +4,22 @@ NPM : 2108107010052
 
 Materi bacaan:
 * https://www.megabagus.id/deep-learning-artificial-neural-networks/ (halaman 1 - 7)
-⁠⁠* https://www.megabagus.id/deep-learning-artificial-neural-networks-aplikasi (halaman 1 - 4)
+* https://www.megabagus.id/deep-learning-artificial-neural-networks-aplikasi (halaman 1 - 4)
 
 Pahami isi dari kedua artikel tersebut dan kerjakan:
 * Contoh pada artikel kedua menggunakan tensorflow pada python environment
-⁠* Tugas 2 sebelumnya menggunakan SVM, kerjakan dengan menggunakan ANN pada python environment yang sama
+* Tugas 2 sebelumnya menggunakan SVM, kerjakan dengan menggunakan ANN pada python environment yang sama
 
 Kumpulkan kedua tugas tersebut menggunakan repository pada github dengan nama repository: NPM_Pertemuan_11_ANN. Repository tersebut berisi:
 * Dataset sebelum dipreprocessing (format csv)
-⁠* Kode python yang memuat process preprocessing, training, testing dan perhitungan akurasi
-⁠* File requirements.txt yang berisi library yang digunakan
-⁠* File README.md yang berisi penjelasan tentang kedua tugas yang dikerjakan beserta perbandingan akurasi SVM dan ANN
+* Kode python yang memuat process preprocessing, training, testing dan perhitungan akurasi
+* File requirements.txt yang berisi library yang digunakan
+* File README.md yang berisi penjelasan tentang kedua tugas yang dikerjakan beserta perbandingan akurasi SVM dan ANN
 
 **1. Klasifikasi**
+
    Dataset dari kaggle https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data
+   
    _About the dataset:_
    Bob, who has started his own mobile company, wants to compete with big players like Apple and Samsung. However, he's unsure how to price his company's mobile phones 
    competitively. To make informed decisions, he collects sales data from various mobile phone companies.
@@ -50,8 +52,10 @@ Kumpulkan kedua tugas tersebut menggunakan repository pada github dengan nama re
    * wifi: Has wifi or not
 
 **2. Regresi**
+
    Dataset dari kaggle (https://www.kaggle.com/datasets/mirichoi0218/insurance/data)
    Banyak faktor yang memengaruhi jumlah Anda membayar asuransi kesehatan berada di luar kendali Anda. Meskipun demikian, ada baiknya untuk memiliki pemahaman tentang apa itu.
+   
    Berikut beberapa faktor yang mempengaruhi besarnya biaya premi asuransi kesehatan
    * **usia:** usia penerima manfaat utama
    * **jenis kelamin:** jenis kelamin kontraktor asuransi, perempuan, laki-laki
